@@ -42,6 +42,9 @@ a {
 .navbar {
   display: flex;
   justify-content: space-between;
+  margin-top: 5px;
+  align-items: center;
+  padding: 10px 9%;
 }
 
 .links_list {
