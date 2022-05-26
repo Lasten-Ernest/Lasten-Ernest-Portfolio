@@ -7,7 +7,6 @@ html {
 body {
   font-family: 'Poppins', sans-serif;
   background-color: #fff;
-
 }
 
 .main_container {
@@ -42,7 +41,6 @@ a {
 .navbar {
   display: flex;
   justify-content: space-between;
-  margin-top: 5px;
   align-items: center;
   padding: 10px 9%;
 }
@@ -53,6 +51,10 @@ a {
   justify-content: space-between;
   padding: 0;
   width: 170px;
+}
+
+.connect_text {
+  color: #7F8CFF;
 }
 
 .media_links a:hover {
