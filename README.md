@@ -18,7 +18,7 @@ To get a local copy up and running follow these simple example steps.
 2. Right click on the index.html file and open with any browser
 
 
-## Authors
+## Author
 
 👤 **Ernest Lasten**
 

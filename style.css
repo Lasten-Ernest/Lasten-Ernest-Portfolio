@@ -3,7 +3,7 @@
 .main_container {
   background-color: #e5e5e5;
   max-width: 375px;
-  height: 718px;
+  height: 100vh;
   background-image: url("/assets/header-shapes-mobile.png");
   margin: auto;
 }
