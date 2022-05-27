@@ -13,12 +13,13 @@
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
+## set-up-mobile-version-portfolio
 
 1. Clone this project into your computer and open the folder
 2. Right click on the index.html file and open with any browser
 
 
-## Authors
+## Author
 
 👤 **Ernest Lasten**
 
